@@ -1,8 +1,6 @@
 <!-- markdownlint-disable MD041 -->
-[![LunarG][1]][2]
+<p align="left"><img src="https://vulkan.lunarg.com/img/NewLunarGLogoBlack.png" alt="LunarG" width=263 height=113 /></p>
 
-[1]: https://vulkan.lunarg.com/img/LunarGLogo.png "www.LunarG.com"
-[2]: https://www.LunarG.com/
 
 [![Creative Commons][3]][4]
 
